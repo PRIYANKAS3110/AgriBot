@@ -1,8 +1,0 @@
-streamlit
-spacy
-google-generativeai
-streamlit-js-eval
-python-dotenv
-
-
-#Make sure to run python -m spacy download en_core_web_md after installing the packages to get the Spacy model.
